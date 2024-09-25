@@ -1,6 +1,6 @@
 # Proyecto de Descarga de Imágenes
 
-¡Bienvenido al Proyecto de Descarga de Imágenes! Este proyecto permite obtener una lista de URLs de imágenes desde una API y descargarlas automáticamente a tu máquina local.
+¡Bienvenido al Proyecto de Descarga de Imágenes de la app de Marques Brownlee! Este proyecto permite obtener una lista de URLs de imágenes desde una API y descargarlas automáticamente a tu máquina local.
 
 ## Características
 
@@ -17,11 +17,11 @@
 
 1. Clona este repositorio:
     ```bash
-    git clone https://github.com/tu-usuario/proyecto-descarga-imagenes.git
+    git clone https://github.com/LatinCoder18/mkbrown-images-downloader.git
     ```
 2. Navega al directorio del proyecto:
     ```bash
-    cd proyecto-descarga-imagenes
+    cd mkbrown-images-downloader
     ```
 3. Instala las dependencias:
     ```bash
